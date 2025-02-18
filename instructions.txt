@@ -1,0 +1,4 @@
+git clone <https://repo.git>
+cd chem_proj
+python3 -m venv .venv
+source .venv/bin/activate
